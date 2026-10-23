@@ -1,0 +1,12 @@
+Tidebound / 借潮而行 — browser escort demo
+
+Published with the project author's authorization, confirmed on 2026-10-23.
+This playable publication does not grant a general license to reuse or
+relicense the code. No MIT license is asserted for the whole game.
+
+Source provenance: the fish simulation and ASCII body rendering originate
+from ascii-sharks (https://github.com/stackedlol/ascii-sharks), reference
+commit c521e24a787e6d4cc460d4cf2b9815f25e4fe453, with project modifications.
+
+This standalone escort demo contains no third-party bitmap or audio assets.
+The separate ASCII Magic weather adaptations are not included in this build.
