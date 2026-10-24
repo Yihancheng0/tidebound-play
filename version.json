@@ -1,6 +1,6 @@
 {
   "game": "cove-escort",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "chapters": [
     "cove",
     "garden"
@@ -8,8 +8,8 @@
   "studies": [
     "reef"
   ],
-  "sourceRevision": "d8c169846f09b0820ad32f6c65ff080ae9fed2cb",
-  "generatedAt": "2026-10-24T06:35:09.593Z",
-  "bytes": 156062,
-  "sha256": "fcb431935922371db933935a4206ecbb449ba63d8d3a70b04828043481382589"
+  "sourceRevision": "b43c447b07ecccdd0a0745b2e0134ef80612740e",
+  "generatedAt": "2026-10-24T06:50:35.525Z",
+  "bytes": 156194,
+  "sha256": "bcd0511d142bef861c460d844c8c3e3daaaf03d6b0a76a685e358a9b41578f24"
 }
