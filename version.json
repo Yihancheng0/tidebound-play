@@ -1,12 +1,12 @@
 {
   "game": "cove-escort",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "chapters": [
     "cove",
     "garden"
   ],
-  "sourceRevision": "43b7c87a1800c0f057c9bd7704693975db78391d",
-  "generatedAt": "2026-10-24T01:51:55.991Z",
-  "bytes": 132121,
-  "sha256": "22f1515319c21c5d284c6bffebf7880c31ba58501abd94b75ccb61f2a9436d8f"
+  "sourceRevision": "b7630da7a11dc1d5ba9928591988f8b9bd2f89cc",
+  "generatedAt": "2026-10-24T04:33:13.765Z",
+  "bytes": 138493,
+  "sha256": "4c7f5faaacc74f793fcb22c11c8273185e7ecbf2f6cea24209b5989fcf4366c9"
 }
